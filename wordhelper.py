@@ -1,6 +1,6 @@
 """This is a module to facilitate iterative reading of letters in a list of words based on certain parameters, and match them to all in the master list. 
 In other words, it's a crossword etc word helper/finder.
-The word list is courtesy of: http://en.wikipedia.org/wiki/Moby_Project"""g
+The word list is courtesy of: http://en.wikipedia.org/wiki/Moby_Project"""
 print("This is a word finder app designed to help you on a crossword puzzle or something similar.")
 print("Instructions: Enter total amount of letters, and we will go through each letter and enter any clues. Just press enter to go to the next letter, if you have none.")
 print("DISCLAIMER: I am not responsible if this thing fails.")
